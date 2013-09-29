@@ -4,6 +4,13 @@ void setup()
     println(hour());
     println(minute());
     println(second());
+    
+    //simple arithmetic
+    println(2+1);
+    println(2-1);
+    println(2*2);
+    println(6/2);
+    
 }
 
 void draw()
