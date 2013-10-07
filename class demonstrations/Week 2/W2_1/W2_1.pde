@@ -16,4 +16,5 @@ void draw()
 {
    int f = 6;
    c = 3;
+   println(a);
 }
